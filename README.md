@@ -1,4 +1,4 @@
-# Poison-Hunter: Characterizing Ethereum Address Poisoning Attack
+# Poison-Hunter: Characterizing Ethereum Address Poisoning Attack (ACM CCS'24)
 Dataset of benign addresses and sample phishing addresses involved in the Ethereum address poisoning attacks.
 
 ## Benign addresses labeled on Etherscan
